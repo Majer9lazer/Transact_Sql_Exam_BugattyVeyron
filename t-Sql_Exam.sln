@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "Database1\Database1.sqlproj", "{59A41D47-7EFD-4CC0-8ED9-7252F67EBDB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaswScript", "DataBaswScript", "{732FA8A6-1082-48A6-82F4-769508F09AC1}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\T-Sql_Exam.sql = ..\..\T-Sql_Exam.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59A41D47-7EFD-4CC0-8ED9-7252F67EBDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A41D47-7EFD-4CC0-8ED9-7252F67EBDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A41D47-7EFD-4CC0-8ED9-7252F67EBDB4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{59A41D47-7EFD-4CC0-8ED9-7252F67EBDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A41D47-7EFD-4CC0-8ED9-7252F67EBDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A41D47-7EFD-4CC0-8ED9-7252F67EBDB4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
