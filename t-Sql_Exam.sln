@@ -10,6 +10,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBaswScript", "DataBaswS
 		..\..\T-Sql_Exam.sql = ..\..\T-Sql_Exam.sql
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataBase_BackupFile", "DataBase_BackupFile", "{2196E07F-AB81-4619-9F8E-B8A1365E5382}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\F38C~1\AppData\Local\Temp\Rar$DRa0.684\BugattyVeyronStorageDb.bak = ..\..\..\..\F38C~1\AppData\Local\Temp\Rar$DRa0.684\BugattyVeyronStorageDb.bak
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
